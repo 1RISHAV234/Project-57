@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background: linear-gradient(#87b5ff,#002f7a);
+    background-repeat: no-repeat;
+}
+#img1 {
+    border-radius: 50px;
+    cursor: pointer;
+}
+#headtext {
+    font-size: 36px;
+    font-family: Segoe UI;
+    text-shadow: 2px 2px #361f04;
+    color:beige;
+}
+#para {
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    font-family: calibri;
+    text-shadow: 0.5px 0.5px #361f04;
+}
+.linepx {
+    width: 100px;
+    height: 8px;
+    background-color: blanchedalmond;
+    margin: 8px auto;
+    text-shadow: 0.5px 0.5px #00ff66;
+    background-color:brown;
+    cursor: pointer;
+}

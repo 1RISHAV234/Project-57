@@ -1,0 +1,3 @@
+function dosomething() {
+    window.alert("My favourite hobby, solving math sums. My hobby is to do some maths sums everyday in a free time. It easily passes my free time and even enriches my knowledge. It even helps for me to calculate the questions fast and may help me in the future. As being a 11 year old, those are simple questions for us and the complex maths start from 8th class But, I try to reach my goal for the class 6 level :) But, Thank you for reading my hobby 😀")
+}
